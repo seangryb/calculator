@@ -14,6 +14,10 @@ The app is designed for users who want fast symbolic calculations and visualisat
 *   **Equation Solving:** Find symbolic solutions for `f(x) = 0`.
 *   **Direct SymPy Commands:** Execute arbitrary SymPy commands for advanced operations including Fourier transform computation as well as ODE and PDE solving. 
 
+## Screenshot
+
+![Screeshot](/examples/Screenshot%20(wavepacket).png)
+
 ## Installation
 
 #### macOS
