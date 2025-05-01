@@ -17,14 +17,16 @@ The app is designed for users who want fast symbolic calculations and visualisat
 ## Installation
 
 #### macOS
-1. Download the `.dmg` file from `/dist`.
+1. Download the `SymCal Graph.dmg` file from the [dist directory](https://github.com/seangryb/calculator/blob/main/dist/).
 2. Open the `.dmg` file and drag the SymCal Graph app to your Applications folder.
 3. Launch the app from the Applications folder.
 
 #### Windows
-1. Download the `.zip` file containing the required files from `\dist`.
+1. Download the `SymCal Graph.zip` file containing the required files from the [dist directory](https://github.com/seangryb/calculator/blob/main/dist/).
 2. Extract the contents of the `.zip` file to a folder of your choice.
 3. Run the `SymCalGraph.exe` file directly to start the application.
+
+*This app has not been tested on Windows.*
 
 #### Running from Source
 1. Ensure Python 3.8+ is installed on your system.
